@@ -1,0 +1,4 @@
+ToolSet: w64 3.4 (local)@C:\Users\Eunice\Desktop\Dev-Cpp\MinGW64
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/Eunice/Desktop/Dev-Cpp/MinGW64/bin/mingw32-make.exe

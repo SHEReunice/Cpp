@@ -1,0 +1,3 @@
+﻿  producer_consumer3.cpp
+C:\Users\Eunice\Documents\Grade_2\操作系统\实验\实验一\producer_consumer3\producer_consumer3\producer_consumer3.cpp(26,9): warning C4101: “i”: 未引用的局部变量
+  producer_consumer3.vcxproj -> C:\Users\Eunice\Documents\Grade_2\操作系统\实验\实验一\producer_consumer3\Debug\producer_consumer3.exe
